@@ -1,0 +1,14 @@
+<resources>
+    <!--Author: Keith Faulkner Date: 2019-03-15-->
+    <string name="app_name">Rochambo</string>
+    <string name="make_choice">Choose Rock Paper or Scissors</string>
+    <string name="user_move_desc">Your move</string>
+    <string name="cpu_move_desc">Computer\'s move</string>
+    <string name="rock">Rock</string>
+    <string name="scissors">Scissors</string>
+    <string name="paper">Paper</string>
+    <string name="none">None</string>
+    <string name="draw">Draw</string>
+    <string name="win">Win</string>
+    <string name="lose">Lose</string>
+</resources>

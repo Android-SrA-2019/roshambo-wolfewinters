@@ -1,8 +1,8 @@
-
-
+package com.wolfewinters.roshambo;
+import java.io.Serializable;
 import java.util.Random;
 
-public class Rochambo {
+public class Rochambo implements Serializable {
 
     public static final int ROCK = 0;
     public static final int PAPER = 1;
